@@ -3,9 +3,7 @@
 Hello welcome to my github profile! :D
 
 NOTE:
-
 I'm just a begginner so you may encounter some bugs in my scripts 
 
 Contact:
-
 Cracker#3727 - Discrod
